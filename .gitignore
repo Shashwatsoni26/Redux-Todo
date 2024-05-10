@@ -25,10 +25,10 @@ dist-ssr
 
 src/assets
 src/reduxTodo
-src/App
-src/App
-src/Counter
-src/demo
-src/index
-src/slice
-src/store
+src/App.jsx
+src/App.css
+src/Counter.jsx
+src/demo.html
+src/index.css
+src/slice.jsx
+src/store.jsx
